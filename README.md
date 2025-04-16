@@ -7,7 +7,7 @@ This project focuses on automating home appliances using Arduino UNO, Bluetooth 
 The main aim is to control lights, fans, and other home appliances wirelessly using a mobile application, making home management easier and smarter.
 
 
----
+
 
 Features
 
@@ -21,7 +21,7 @@ Easy to install and use.
 
 
 
----
+
 
 Components Used
 
@@ -41,7 +41,6 @@ Power Supply
 
 
 
----
 
 Working Principle
 
@@ -56,7 +55,6 @@ Working Principle
 
 
 
----
 
 Advantages
 
@@ -70,7 +68,7 @@ Can be upgraded to include sensors for automation.
 
 
 
----
+
 
 Future Scope
 
@@ -84,9 +82,19 @@ Enhanced security features.
 
 
 
----
 
 Conclusion
 
 Our project demonstrates a basic Smart Home Automation System using Arduino.
 It helps users control home appliances easily, making life smarter and more comfortable.
+
+
+Note
+
+Files like .pdf and .pptx (e.g., SmartHomeAutomationFinalReport.pdf and maingroup4.pdf) might not preview or open properly on GitHub mobile.
+For the best experience, please download and open them on a desktop or laptop.
+Alternatively, you can upload these files to Google Drive for easier access on mobile.
+
+
+
+
